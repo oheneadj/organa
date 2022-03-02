@@ -1,3 +1,9 @@
+<?php
+//Session Set
+require_once('../controller/session.php');
+//Database connection
+require_once('../model/db_connect.php');
+?>
 <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 

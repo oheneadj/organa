@@ -65,9 +65,9 @@
                     <div class="col-12">
                       <button class="btn btn-primary w-100" type="submit">Login</button>
                     </div>
-                    
-                    <div class="col-12">
-                      <button class="btn btn-outline-danger w-100" type="submit"><i class="bi bi-google me-1"></i>Login with Google</button>
+                    <h6 class="text-center my-1">OR</h6>
+                    <div class="col-12 mt-1">
+                      <button class="btn btn-outline-danger w-100 mt-1" type="submit"><i class="bi bi-google me-1"></i>Login with Google</button>
                     </div>
                     <div class="col-12">
                       <p class="small mb-0">Don't have account? <a href="register.php">Create an account</a></p>

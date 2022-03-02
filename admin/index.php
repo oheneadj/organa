@@ -5,7 +5,7 @@
 		$uri = $_SERVER['HTTP_REFERER'];
 	}
     // $URL = $_SERVER['HTTP_REFERER'];
-	header('Location: '.$uri.'admin/view/login.html');
+	header('Location: '.$uri.'admin/view/login.php');
 	exit;
 ?>
 <!DOCTYPE html>
